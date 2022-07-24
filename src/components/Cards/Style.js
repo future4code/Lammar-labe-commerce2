@@ -10,6 +10,12 @@ export const ContainerCartao = styled.div `
     h2 {
         text-align: center;
     }
+
+    img {
+        width: 100%;
+        
+        
+    }
 `
 export const ConteudoCartao = styled.p `
 
@@ -21,6 +27,5 @@ export const FooterCartao = styled.h4 `
     
     display: flex;
     justify-content: space-around;
-
 `
 
