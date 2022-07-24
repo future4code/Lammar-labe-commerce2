@@ -1,16 +1,59 @@
 import React, { useState } from 'react';
-import dadosDados from "./banco_de_dados/dados.json"
 import { Cartoes } from './components/Cards/Cartao';
 import { Filtros } from './components/Filtro/Filtro';
 import { Cabecalho } from './components/Header/Cabecalho';
 import { ContainerApp } from './style';
+import Challenger from './imagens/challenger.jpg'
+import Atlantis from './imagens/Atlantis.jpg'
+import Columbia from './imagens/Columbia.jpg'
+import Enterprise from './imagens/enterprise.jpg'
+import Millennium from './imagens/Millennium Falcon.jpg'
+import StarFox from './imagens/fox.jpg'
 
 
 function App() {
 
   // VARIÁVEIS PARA CRIAR AS PROPS
+  const mock = [
+    {
+      nome: "Challenger",
+      valor: 1000000,
+      imagem: Challenger
+    },
 
-  const [dados] = useState(dadosDados)
+    {
+      nome: "Atlantis",
+      valor: 10000000,
+      imagem: Atlantis
+    },
+
+    {
+      nome: "Columbia",
+      valor: 15000000,
+      imagem: Columbia
+    },
+
+    {
+      nome: "Millennium Falcon",
+      valor: 25000000,
+      imagem: Millennium
+    },
+
+    {
+      nome: "Enterprise",
+      valor: 35000000,
+      imagem: Enterprise
+    },
+
+    {
+      nome: "StarFox",
+      valor: 640000000,
+      imagem: StarFox
+    }
+  ]
+
+
+  const [dados] = useState(mock)
   const [nomeProdutos, setNomeProdutos] = useState("")
   const [valorMin, setValorMin] = useState("")
   const [valorMax, setValorMax] = useState("")
