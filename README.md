@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 🚀 Projeto ECommerce - Sua Loja Espacial 🚀 </h1>
+<h1 align="center"> 🚀 Projeto ECommerce - Sua Loja Espacial 🚀 
 
 
  [⭐⭐⭐ SURGE ⭐⭐⭐](https://responsible-button.surge.sh).
@@ -8,8 +8,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/future4code/Lammar-labe-commerce2?style=social)](https://github.com/future4code/Lammar-labe-commerce2/stargazers)
 
 
-https://user-images.githubusercontent.com/102522842/180717117-cdc448ca-ba93-4d56-87a7-ca2b292c0855.mp4
+<h1 align="center">
 
+![LOJA ESPACIAL](https://user-images.githubusercontent.com/102522842/180722386-7acdc71a-c7e9-46b3-9005-b5c0a42fbbab.gif)
+ 
+ 
+ </h1>
 
 
 ## 🪐 Técnicas e tecnologias utilizadas
