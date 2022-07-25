@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/102522842/180708951-65850217-5692-4c6d
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/102371962?v=4" width=115><br><sub>Gabriel Martnis</sub>](https://github.com/mmartinsgabriel) |  [<img src="https://avatars.githubusercontent.com/u/102332918?v=4" width=115><br><sub>Fábio Alves</sub>](https://github.com/fabinhoalves7) |  [<img https://avatars.githubusercontent.com/u/102522842?v=4" width=115><br><sub>Natália Moraes</sub>](https://github.com/enemynah) |
+| [<img src="https://avatars.githubusercontent.com/u/102371962?v=4" width=115><br><sub>Gabriel Martnis</sub>](https://github.com/mmartinsgabriel) |  [<img src="https://avatars.githubusercontent.com/u/102332918?v=4" width=115><br><sub>Fábio Alves</sub>](https://github.com/fabinhoalves7) |   [<img src="https://avatars.githubusercontent.com/u/102522842?v=4" width=115><br><sub>Natália Moraes</sub>](https://github.com/enemynah) |
 | :---: | :---: | :---: |
 
 
