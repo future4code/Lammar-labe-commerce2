@@ -5,16 +5,13 @@
 
  [⭐⭐⭐ SURGE ⭐⭐⭐](https://responsible-button.surge.sh)
 
-[![GitHub stars](https://img.shields.io/github/stars/future4code/Lammar-labe-commerce2?style=social)](https://github.com/future4code/Lammar-labe-commerce2/stargazers)
-
-
-<h1 align="center">
 
 ![LOJA ESPACIAL](https://user-images.githubusercontent.com/102522842/180722386-7acdc71a-c7e9-46b3-9005-b5c0a42fbbab.gif)
  
+
+[![GitHub stars](https://img.shields.io/github/stars/future4code/Lammar-labe-commerce2?style=social)](https://github.com/future4code/Lammar-labe-commerce2/stargazers)
  
  </h1>
-
 
 ## 🪐 Técnicas e tecnologias utilizadas
 
