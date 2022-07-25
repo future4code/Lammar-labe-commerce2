@@ -3,7 +3,7 @@
 <h1 align="center"> 🚀 Projeto ECommerce - Sua Loja Espacial 🚀 
 
 
- [⭐⭐⭐ SURGE ⭐⭐⭐](https://responsible-button.surge.sh).
+ [⭐⭐⭐ SURGE ⭐⭐⭐](https://responsible-button.surge.sh)
 
 [![GitHub stars](https://img.shields.io/github/stars/future4code/Lammar-labe-commerce2?style=social)](https://github.com/future4code/Lammar-labe-commerce2/stargazers)
 
