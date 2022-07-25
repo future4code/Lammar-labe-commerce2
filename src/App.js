@@ -47,7 +47,7 @@ function App() {
 
     {
       nome: "StarFox",
-      valor: 640000000,
+      valor: 64000000,
       imagem: StarFox
     }
   ]
@@ -61,7 +61,7 @@ function App() {
 
 
   return (
-    <>
+    <body>
 
       {/* CABEÇALHO DO SITE  */}
       <Cabecalho />
@@ -103,7 +103,7 @@ function App() {
           })}
 
       </ContainerApp>
-    </>);
+    </body>);
 }
 
 export default App;

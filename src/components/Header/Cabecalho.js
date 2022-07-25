@@ -3,6 +3,6 @@ import { ContainerHeader } from "./Style";
 
 export function Cabecalho () {
     return <ContainerHeader>
-        <h1> Site em construção </h1>
+        <h1> Sua Loja Espacial </h1>
     </ContainerHeader>
 }
